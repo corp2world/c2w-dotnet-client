@@ -1,0 +1,9 @@
+E:\Corp2Socio\C2W-DotNetClient\C2W-DotNetClient\C2W_Client\bin\Debug\C2W_Client.dll
+E:\Corp2Socio\C2W-DotNetClient\C2W-DotNetClient\C2W_Client\bin\Debug\C2W_Client.pdb
+E:\Corp2Socio\C2W-DotNetClient\C2W-DotNetClient\C2W_Client\obj\Debug\ResolveAssemblyReference.cache
+E:\Corp2Socio\C2W-DotNetClient\C2W-DotNetClient\C2W_Client\obj\Debug\C2W_Client.dll
+E:\Corp2Socio\C2W-DotNetClient\C2W-DotNetClient\C2W_Client\obj\Debug\C2W_Client.pdb
+E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2W_Client\obj\Debug\C2W_Client.dll
+E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2W_Client\bin\Debug\C2W_Client.dll
+E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2W_Client\bin\Debug\C2W_Client.pdb
+E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2W_Client\obj\Debug\C2W_Client.pdb
