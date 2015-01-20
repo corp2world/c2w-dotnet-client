@@ -17,3 +17,6 @@ E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2WClientExample\bin\Debug\C
 E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2WClientExample\bin\Debug\C2W_Client.dll
 E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2WClientExample\bin\Debug\C2W_Client.pdb
 E:\Corp2World\C2W_Client_Libraries\C2W-DotNetClient\C2WClientExample\obj\x86\Debug\C2WClientExample.csprojResolveAssemblyReference.cache
+E:\c2w_client_lib\c2w-dotnet-client\C2WClientExample\bin\Debug\C2WClientExample.exe.config
+E:\c2w_client_lib\c2w-dotnet-client\C2WClientExample\obj\x86\Debug\C2WClientExample.exe
+E:\c2w_client_lib\c2w-dotnet-client\C2WClientExample\obj\x86\Debug\C2WClientExample.pdb
