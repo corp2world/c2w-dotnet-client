@@ -47,7 +47,7 @@ namespace C2WClientExample
             var message = new Message { topic = "topic message from .NET library", text = "text  message from .NET library" };
 
             Console.WriteLine("Add recipients");
-            message.channelRecipients.Add(((int)EChannelType.PhoneSms).ToString(), new string[]{"+12035160813"});
+            message.channelRecipients.Add(((int)EChannelType.PhoneSms).ToString(), new string[]{"+123456789191"});
 
             Console.WriteLine("Add response options");
             message.dialogOptions.Add("Accepted");

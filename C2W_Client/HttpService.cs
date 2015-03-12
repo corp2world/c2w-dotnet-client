@@ -96,10 +96,10 @@ namespace C2W_Client
             string proxyServer, int? proxyPort, string proxyUserName, string proxyPassword)
         {
             ServicePointManager.ServerCertificateValidationCallback = new RemoteCertificateValidationCallback(delegate { return true; });
-            var dir = AssemblyDirectory;
-            var certificate = X509Certificate.CreateFromCertFile(dir + "\\server.pfm");
+            //var dir = AssemblyDirectory;
+            //var certificate = X509Certificate.CreateFromCertFile(dir + "\\server.pfm");
             var request = (HttpWebRequest)WebRequest.Create(uri);
-            request.ClientCertificates.Add(certificate);
+            //request.ClientCertificates.Add(certificate);
             request.Credentials = new NetworkCredential(userName, password);
 
             if (!string.IsNullOrEmpty(proxyServer) && proxyPort!=null)
